@@ -7,8 +7,5 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^11"
-    },
-  "require": {
-    "ext-http": "*"
-  }
+    }
 }
